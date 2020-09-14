@@ -1,0 +1,5 @@
+2020-09-14 16:23:31,545 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2020-09-14 16:27:59,722 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2020-09-14 16:30:08,167 [WARNING] django.security.csrf: Forbidden (CSRF token missing or incorrect.): /admin/login/
+2020-09-14 17:07:45,389 [INFO] django.utils.autoreload: C:\Users\DELL\Desktop\walletservice\walletdetails\models.py changed, reloading.
+2020-09-14 17:07:46,623 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
